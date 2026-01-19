@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EasyBank loans related local APIs"
+  message: "Welcome to EasyBank loans related qa APIs"
   contactDetails:
     name: "Vu Khanh - QA Lead"
     email: "vukhanh@gmail.com"
