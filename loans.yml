@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EasyBank loans related local APIs - default configuration"
+  message: "Welcome to EasyBank loans related local APIs - default config"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@easybank.com"
