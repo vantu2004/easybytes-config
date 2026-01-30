@@ -11,4 +11,4 @@ eureka:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
 
 additional:
-  description: "Eureka Server for Service Discovery - Development Environment"
+  description: "Eureka Server for Service Discovery - Development Environment - Default Configuration"
